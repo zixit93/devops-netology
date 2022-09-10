@@ -1,2 +1,5 @@
 will_be_moved
 has_been_moved.txt
+testing changes
+testing changes 2
+testing changes in PyCharm
